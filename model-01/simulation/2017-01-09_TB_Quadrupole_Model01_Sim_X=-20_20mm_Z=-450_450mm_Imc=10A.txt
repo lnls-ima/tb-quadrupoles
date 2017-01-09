@@ -8,7 +8,7 @@ gap[mm]:           	40
 control_gap[mm]:   	--
 magnet_length[mm]: 	85
 current_main[A]:   	10
-NI_main[A.esp]:   	128
+NI_main[A.esp]:   	1280
 center_pos_z[mm]: 	0
 center_pos_x[mm]: 	0
 rotation[deg]:    	0
